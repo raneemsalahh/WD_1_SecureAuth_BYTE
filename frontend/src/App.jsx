@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://wd1secureauthbyte-production.up.railway.app";
 
 function App() {
   const [view, setView] = useState("register"); // register | login | profile
