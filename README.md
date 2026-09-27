@@ -85,3 +85,8 @@ Runs on `http://localhost:5173`
 See screenshots below showing the full flow: register → login → access protected route.
 ![Register and Login flow](screenshots/demo.png)
 ![Protected route access](screenshots/demo2.png)
+
+## Live Demo
+
+- Frontend: https://wd-1-secure-auth-byte.vercel.app
+- Backend API: https://wd1secureauthbyte-production.up.railway.app
