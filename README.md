@@ -82,4 +82,6 @@ Runs on `http://localhost:5173`
 
 ## Demo
 
-See screenshots showing the full flow: register → login → access protected route.
+See screenshots below showing the full flow: register → login → access protected route.
+![Register and Login flow](screenshots/demo.png)
+![Protected route access](screenshots/demo2.png)
